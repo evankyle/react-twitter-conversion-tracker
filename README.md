@@ -8,7 +8,7 @@ npm install --save react-twitter-conversion-tracker
 
 ## Example Use
 ```js
-import TwitterConvTrkr from "react-twitter-conversion-tracking";
+import TwitterConvTrkr from "react-twitter-conversion-tracker";
 TwitterConvTrkr.init("YourTwitterConversionId");
 TwitterConvTrkr.pageView();
 ```
