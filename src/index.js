@@ -27,8 +27,12 @@ var TwitterConvTrkr = {
       return;
     }
     twq('track','PageView');
-  }
+  },
 
+  track: function(action) {
+    if (ConvId) twq('track', action);
+    else console.error('TwitterConvTrkr init must be called first.');
+  }
 }
 
 module.exports = TwitterConvTrkr;
