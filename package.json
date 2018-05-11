@@ -1,5 +1,5 @@
 {
-  "name": "react-twitter-conversion-tracker",
+  "name": "react-twitter-conversion-tracker-plus",
   "version": "1.0.0",
   "description": "React JS component for Twitter's conversion tracking.",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evankyle/react-twitter-conversion-tracker.git"
+    "url": "git+https://github.com/theworkflow/react-twitter-conversion-tracker.git"
   },
   "keywords": [
     "react",
@@ -19,10 +19,10 @@
     "tracking",
     "website tag"
   ],
-  "author": "Evan Michael Kyle",
+  "author": "Jeremiah Harlan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/evankyle/react-twitter-conversion-tracker/issues"
+    "url": "https://github.com/theworkflow/react-twitter-conversion-tracker/issues"
   },
-  "homepage": "https://github.com/evankyle/react-twitter-conversion-tracker#readme"
+  "homepage": "https://github.com/theworkflow/react-twitter-conversion-tracker#readme"
 }
