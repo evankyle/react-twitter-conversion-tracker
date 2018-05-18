@@ -1,4 +1,4 @@
-# react-twitter-conversion-tracker-plus
+# [react-twitter-conversion-tracker-plus](https://npm.im/react-twitter-conversion-tracker-plus)
 React JS component for [Twitter's conversion tracking.](https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html)
 
 ** NOTE **
