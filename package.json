@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "React JS component for Twitter's conversion tracking.",
   "main": "src/index.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
