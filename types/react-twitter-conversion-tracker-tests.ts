@@ -1,4 +1,4 @@
-import TwitterConvTrkr from './index';
+import TwitterConvTrkr = require('./index');
 
 TwitterConvTrkr.init('nuqtg');
 
